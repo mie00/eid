@@ -14,7 +14,7 @@ A python tool to send personalized eid congratulations
 git clone https://github.com/mie00/eid
 cd eid
 python3 -m venv .env
-source .venv/bin/activate
+source .env/bin/activate
 pip install -r requirements.txt
 ```
 
