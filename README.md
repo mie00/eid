@@ -22,9 +22,9 @@ pip install -r requirements.txt
 
 ```sh
 # edit templates.txt to add the templates for the messages to send
-./eid <facebook username> prepare
+./eid.py <facebook username> prepare
 # edit to_be_sent.csv file to make sure everything is ok
-./eid <facebook username> send
+./eid.py <facebook username> send
 ```
 
 ## Licence
