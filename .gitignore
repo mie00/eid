@@ -1,0 +1,4 @@
+.env/
+__pycache__/
+/new_*.csv
+/to_be_sent.csv
