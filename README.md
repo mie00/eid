@@ -2,13 +2,13 @@
 
 A python tool to send personalized eid congratulations
 
-Supported platforms:
+## Supported platforms
 
-[x] Facebook messenger
-[ ] Telegram
-[ ] Whatsapp
+- [x] Facebook messenger
+- [ ] Telegram
+- [ ] Whatsapp
 
-Installation:
+## Installation
 
 ```sh
 git clone https://github.com/mie00/eid
@@ -18,7 +18,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Usage:
+## Usage
 
 ```sh
 # edit templates.txt to add the templates for the messages to send
@@ -27,6 +27,6 @@ Usage:
 ./eid <facebook username> send
 ```
 
-Licence:
+## Licence
 
 MIT
